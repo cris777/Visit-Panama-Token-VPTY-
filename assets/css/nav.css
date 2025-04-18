@@ -1,0 +1,43 @@
+
+.nav-bottom-link {
+  background: none;
+  color: #2c394b !important;
+  border: none !important;
+}
+.nav-bottom-link span {
+  color: #ebebeb !important;
+  font-size: 13px;
+  border: none !important;
+  border-radius: 2rem;
+}
+
+.nav-item{
+  border: none !important;
+}
+
+
+button {
+  border: none !important;
+  outline: none !important;
+}
+
+.tab-content {
+  -ms-overflow-style: none !important; /* IE and Edge */
+  scrollbar-width: none !important; /* Firefox */
+}
+
+.tab-content::-webkit-scrollbar {
+  display: none !important;
+}
+
+/* Icons */
+.bi {
+    color: #ebebeb;
+    font-size: 2em;
+}
+
+.bi:hover {
+    color: #fff;
+    font-size: 2em;
+}
+
