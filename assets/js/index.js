@@ -6,7 +6,7 @@
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
 
 // open the deeplink page 
-window.open("https://metamask.app.link/dapp/sierramindtech.com/dev/vpty/dashboard.html")
+window.open("https://metamask.app.link/dapp/vpty.finthub.org/dashboard.html")
 
 } else {
 
