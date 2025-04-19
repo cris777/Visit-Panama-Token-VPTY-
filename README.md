@@ -6,6 +6,8 @@ VISIT PANAMA TOKEN (VPTY) -- PROTOTYPE.
 
 LINK: https://vpty.finthub.org
 
+VIDEO: https://vpty.finthub.org/video/VPTY-Video-2025.mp4
+
 HACKATON ETH CANAL 2025.
 
 INNOVATION SMART DISTRICT (ISD PANAMA).
